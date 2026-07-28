@@ -1,4 +1,4 @@
-<h1 align="center">Olá, mundo! 👋 Sou o Gabriel Babinski</h1>
+<h1 align="center">Olá, mundo! Sou o Gabriel Babinski</h1>
 <h3 align="center">Desenvolvedor Backend & Engenheiro de Dados</h3>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠️ Minha Stack e Ferramentas
+### Minha Stack e Ferramentas
 
 **Core & Bancos de Dados:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -37,12 +37,12 @@
 
 ---
 
-### 🚀 O que estou construindo / pesquisando
+### O que estou construindo / pesquisando
 
-- 🔍 **Pipelines de Ingestão & Data Observability:** Pesquisa voltada para computação de alto desempenho, focada na mitigação de corrupção e anomalias de dados na camada de ingestão.
-- 🕷️ **Extratores de Alta Resiliência:** Arquiteturas de web scraping automatizadas para superar limitações estritas de requisições (rate limits) utilizando Python, Selenium e BeautifulSoup.
-- ⚡ **Monitoramento Autônomo & Alertas:** Orquestração ponta a ponta para análise de dados externos em tempo real utilizando SerpAPI, SQLite e acionamento via Telegram API.
-- 🏆 **Plataformas de Gestão Escaláveis:** Arquiteturas BaaS projetadas para alta concorrência, processando pontuações em tempo real com integridade financeira no PostgreSQL.
+-  **Pipelines de Ingestão & Data Observability:** Pesquisa voltada para computação de alto desempenho, focada na mitigação de corrupção e anomalias de dados na camada de ingestão.
+-  **Extratores de Alta Resiliência:** Arquiteturas de web scraping automatizadas para superar limitações estritas de requisições (rate limits) utilizando Python, Selenium e BeautifulSoup.
+-  **Monitoramento Autônomo & Alertas:** Orquestração ponta a ponta para análise de dados externos em tempo real utilizando SerpAPI, SQLite e acionamento via Telegram API.
+-  **Plataformas de Gestão Escaláveis:** Arquiteturas BaaS projetadas para alta concorrência, processando pontuações em tempo real com integridade financeira no PostgreSQL.
 
 ---
 
