@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor Backend & Engenheiro de Dados</h3>
 
 <p align="center">
-  Bacharel em Ciência da Computação e Pós-graduando em Tecnologias de Alto Desempenho em Dados Ambientais (UNEMAT). Sou especializado em solucionar problemas complexos de infraestrutura de dados, construindo automações eficientes, pipelines estritos e arquiteturas de integração robustas.
+  Bacharel em Ciência da Computação e Pós-graduando em Tecnologias de Alto Desempenho em Dados Ambientais (UNEMAT).
 </p>
 
 <p align="center">
