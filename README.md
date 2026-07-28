@@ -47,7 +47,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielMBabinski&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19&cache_seconds=86400&v=1" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=GabrielMBabinski&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19" alt="Estatísticas do GitHub" />
 </div>
 <!--
 **GabrielMBabinski/GabrielMBabinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
