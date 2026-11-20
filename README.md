@@ -47,8 +47,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=GabrielMBabinski&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19" alt="Estatísticas do GitHub" />
+  <img src="https://streak-stats.demolab.com/?user=GabrielMBabinski&theme=tokyonight&hide_border=true&background=0d1117&locale=pt_BR" alt="GitHub Streak" />
 </div>
 <!--
-**GabrielMBabinski/GabrielMBabinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GabrielMBabinski/GabrielMBabinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
