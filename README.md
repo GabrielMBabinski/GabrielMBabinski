@@ -45,9 +45,7 @@
 -  **Plataformas de Gestão Escaláveis:** Arquiteturas BaaS projetadas para alta concorrência, processando pontuações em tempo real com integridade financeira no PostgreSQL.
 
 ---
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielMBabinski&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&locale=pt-br" alt="Estatísticas do GitHub" />
-</div>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=GabrielMBabinski&theme=tokyonight&hide_border=true&background=0d1117&locale=pt_BR" alt="GitHub Streak" />
 </div>
